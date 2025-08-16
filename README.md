@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 - 🎓 BA in Information Systems – Gondar University  
 - 📚 Graduate of **10 Academy AI Intensive** & **ALX AI Essentials**  
 - 🌍 Based in Ethiopia 🇪🇹  
-- 💡 Currently exploring **AI-powered applications** and **modern web architectures**  
+- 💡 Currently exploring **AI-powered applications** and **modern web architectures**
+-  🌱 Lifelong learner in **Machine Learning, Deep Learning, and MLOps**  
+- 💬 Ask me about **Python, Django, React, ML, and system design**  
+- ⚡ Fun fact: I believe **code is like art — clean and expressive**
+
 
 ---
 
