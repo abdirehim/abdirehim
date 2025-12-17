@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Abdirehim Shemsu  
 
-🚀 **Full-Stack Developer | AI & ML Enthusiast**  
+🚀 **Full-Stack Developer | AI & ML Engineer**  
 💻 Passionate about building scalable systems, elegant UIs, and intelligent solutions.  
 
 ---
